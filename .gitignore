@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+
+.DS_Store
+WeatherPy/config.py
+VacationPy/config.py
+
 __pycache__/
 *.py[cod]
 *$py.class
